@@ -403,8 +403,8 @@ label ch12_main:
     s "I really should have told you guys..."
     s 2c "But to be honest, it was kind of a last minute thing..."
     s "I wasn't even sure if I could convince the president if I could use the space."
-    s "It's kind of a miracle he agreed."
-    show sayori zorder 2 at t41
+    s "It's kind of a miracle he agreed."<-- reword this please e.g. "It's kind of a miracle that he agreed" or "he agreed it was kind of a miracle"
+    show sayori zorder 2 at t41 
     "Sayori looks around the room."
     "I think she's looking for approval but can't find any."
     show natsuki 1e zorder 3 at f43
